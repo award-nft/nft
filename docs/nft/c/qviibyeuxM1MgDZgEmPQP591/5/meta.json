@@ -1,0 +1,26 @@
+{
+  "name": "The Best Ticket Broker in Russia in 2025",
+  "description": "Winner of the Cup of the Best Ticket Broker in Russia in 2025.",
+  "image": "https://nft.vhodtut.com/nft/c/qviibyeuxM1MgDZgEmPQP591/5/image.png",
+  "attributes": [
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/..."
+    },
+    {
+      "trait_type": "Support",
+      "value": "https://t.me/Bestticketbroker"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2025"
+    },
+    {
+      "trait_type": "Nomination",
+      "value": "Ticket Broker in Russia"
+    }
+  ],
+  "social_links": [
+    "https://t.me/..."
+  ]
+}

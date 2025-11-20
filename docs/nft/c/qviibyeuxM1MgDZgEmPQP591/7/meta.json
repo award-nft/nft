@@ -1,0 +1,26 @@
+{
+  "name": "The Most Stable Ticket Broker",
+  "description": "The Holder of the title of the Most Stable Ticket Broker.",
+  "image": "https://nft.vhodtut.com/nft/c/qviibyeuxM1MgDZgEmPQP591/7/image.png",
+  "attributes": [
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/..."
+    },
+    {
+      "trait_type": "Support",
+      "value": "https://t.me/Bestticketbroker"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2021"
+    },
+    {
+      "trait_type": "Nomination",
+      "value": "Most Stable Ticket Broker"
+    }
+  ],
+  "social_links": [
+    "https://t.me/..."
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "The Best Ticket Broker in Russia in 2021",
+  "description": "Winner of the Cup of the Best Ticket Broker in Russia in 2021.",
+  "image": "https://nft.vhodtut.com/nft/c/qviibyeuxM1MgDZgEmPQP591/1/image.png",
+  "attributes": [
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/biletoVedRus"
+    },
+    {
+      "trait_type": "Support",
+      "value": "https://t.me/Bestticketbroker"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2021"
+    },
+    {
+      "trait_type": "Nomination",
+      "value": "Best Ticket Broker in Russia"
+    }
+  ],
+  "social_links": [
+    "https://t.me/biletoVedRus"
+  ]
+}

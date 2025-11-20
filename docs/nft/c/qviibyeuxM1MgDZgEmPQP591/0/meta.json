@@ -1,0 +1,22 @@
+{
+  "name": "The Cup of the Best Ticket Broker in Russia",
+  "description": "The Rolling Cup Of The Best Ticket Broker In Russia. It was founded in 2021. It is awarded annually based on the vote of the Russian ticket broker community.",
+  "image": "https://nft.vhodtut.com/nft/c/qviibyeuxM1MgDZgEmPQP591/0/image.jpg",
+  "attributes": [
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/biletuefa"
+    },
+    {
+      "trait_type": "Support",
+      "value": "https://t.me/Bestticketbroker"
+    },
+    {
+      "trait_type": "Nomination",
+      "value": "Best Ticket Broker in Russia"
+    }
+  ],
+  "social_links": [
+    "https://t.me/biletuefa"
+  ]
+}

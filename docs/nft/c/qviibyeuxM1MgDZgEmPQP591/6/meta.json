@@ -1,0 +1,26 @@
+{
+  "name": "The Best Foreign Partner",
+  "description": "Holder of the title of the Best Foreign Partner in the ticket business.",
+  "image": "https://nft.vhodtut.com/nft/c/qviibyeuxM1MgDZgEmPQP591/6/image.png",
+  "attributes": [
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/souzinho4"
+    },
+    {
+      "trait_type": "Support",
+      "value": "https://t.me/Bestticketbroker"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2021"
+    },
+    {
+      "trait_type": "Nomination",
+      "value": "Best Foreign Partner"
+    }
+  ],
+  "social_links": [
+    "https://t.me/souzinho4"
+  ]
+}
